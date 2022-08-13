@@ -150,6 +150,7 @@ footer{
     border-top: 1px solid #e4e4e4;
 }
 
+
 footer ul{
     background-color: #f2f2f2; 
     display: flex;
@@ -162,7 +163,7 @@ footer .menulefth{
     justify-content: left;
 }
 
-footer.menuright{
+footer .menuright{
     justify-content: right;
 }
 
